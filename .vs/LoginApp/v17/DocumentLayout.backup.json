@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|d:\\devlopment work\\applications\\full stack\\loginpage\\loginapp\\client\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|solutionrelative:client\\src\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|d:\\devlopment work\\applications\\full stack\\loginpage\\loginapp\\client\\src\\pages\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|solutionrelative:client\\src\\pages\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|d:\\devlopment work\\applications\\full stack\\loginpage\\loginapp\\client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|solutionrelative:client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|d:\\devlopment work\\applications\\full stack\\loginpage\\loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|d:\\devlopment work\\applications\\full stack\\loginpage\\loginapp\\client\\src\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{323A8ABD-E45E-44CD-B7E0-3195A40802D3}|LoginApp.csproj|solutionrelative:client\\src\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.js",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\Pages\\Login.js",
+              "RelativeDocumentMoniker": "client\\src\\Pages\\Login.js",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\Pages\\Login.js",
+              "RelativeToolTip": "client\\src\\Pages\\Login.js",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T06:31:21.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.js",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\Pages\\Dashboard.js",
+              "RelativeDocumentMoniker": "client\\src\\Pages\\Dashboard.js",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\Pages\\Dashboard.js",
+              "RelativeToolTip": "client\\src\\Pages\\Dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T06:30:35.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\App.js",
+              "RelativeDocumentMoniker": "client\\src\\App.js",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\App.js",
+              "RelativeToolTip": "client\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T06:26:43.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:05:24.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.js",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\Pages\\Register.js",
+              "RelativeDocumentMoniker": "client\\src\\Pages\\Register.js",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\Full Stack\\LoginPage\\LoginApp\\client\\src\\Pages\\Register.js",
+              "RelativeToolTip": "client\\src\\Pages\\Register.js",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-08T09:59:40.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
